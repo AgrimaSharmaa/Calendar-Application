@@ -9,6 +9,7 @@ int get_1st_weekday(int year){  //to return the starting day of the month, if it
   d = (((year - 1) * 365) + ((year - 1) / 4) - ((year - 1) / 100) + ((year) / 400) + 1) % 7;
   return d;
 }
+
 int main()
 {
    int year,month,day,daysInMonth,weekDay=0,startingDay;
