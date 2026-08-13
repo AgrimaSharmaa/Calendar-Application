@@ -1,6 +1,5 @@
 # Calendar-Application
-# Calendar-Application-Java
-A simple and lightweight console-based Calendar application written in Java. It allows users to input a year and a month to view the correctly formatted calendar layout.
+Developed a Java-based console application implementing Zeller's Congruence Algorithm to dynamically calculate and render calendar layouts for any given year and month. Features precise leap-year validation and optimized console formatting.
 
 
 
